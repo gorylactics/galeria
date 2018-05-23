@@ -1,0 +1,39 @@
+.logo{
+	max-height: 25px;
+	display: block;
+}
+
+.logo2{
+	max-height: 25px;
+	display: inline-block;
+}
+
+.jumbotron{
+	background-image: url("./actividad-bootstrap-photogallery-master/assets/images/bg2.jpg");
+	background-size: cover;
+	color: white;}
+
+.col-md-4{
+	margin-top: 2%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+.card-border{
+	border: solid 6px grey; border-radius: 10px;
+}
+
+.col-md-12{
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	border-top: 1px solid black;
+}
+
+.col-md-12b{
+	text-align: center;
+	background-color: grey;
+	border-top: 1px solid black;
+
+
+}
